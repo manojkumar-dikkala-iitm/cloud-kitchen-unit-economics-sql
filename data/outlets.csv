@@ -1,0 +1,4 @@
+outlet_id,outlet_name,outlet_type,locality,opening_date,closing_date,monthly_rent,monthly_utilities,status
+1,E-Table Kandanchavadi,hub,Kandanchavadi,2018-02-01,2022-11-30,10000,5000,closed
+2,E-Table Outlet 2,spoke,Perungudi,2019-07-01,2022-11-30,15000,5000,closed
+3,E-Table Outlet 3,spoke,Thoraipakkam,2020-08-01,2022-04-30,12000,5000,restructured

@@ -1,0 +1,67 @@
+promotion_id,platform_id,promotion_name,discount_type,discount_value,min_order_value,restaurant_funded_pct,start_date,end_date
+1,2,Flat 100 off above 399,flat,100,399,1.0,2018-03-01,2018-12-31
+2,4,Flat 100 off above 399,flat,100,399,1.0,2018-03-01,2018-12-31
+3,2,Flat 100 off above 399,flat,100,399,1.0,2019-01-01,2019-12-31
+4,3,Flat 100 off above 399,flat,100,399,1.0,2019-01-01,2019-12-31
+5,1,Flat 100 off above 399,flat,100,399,1.0,2020-01-01,2020-03-15
+6,2,Flat 100 off above 399,flat,100,399,1.0,2020-01-01,2020-03-15
+7,2,Flat 100 off above 399,flat,100,399,1.0,2020-07-01,2020-12-31
+8,1,Flat 100 off above 399,flat,100,399,1.0,2022-01-01,2022-11-30
+9,1,Weekend 15% off,percentage,0.15,299,1.0,2018-03-01,2018-12-31
+10,2,Weekend 15% off,percentage,0.15,299,1.0,2018-03-01,2018-12-31
+11,3,Weekend 15% off,percentage,0.15,299,1.0,2018-03-01,2018-12-31
+12,2,Weekend 15% off,percentage,0.15,299,1.0,2019-01-01,2019-12-31
+13,4,Weekend 15% off,percentage,0.15,299,1.0,2019-01-01,2019-12-31
+14,3,Weekend 15% off,percentage,0.15,299,1.0,2020-01-01,2020-03-15
+15,2,Weekend 15% off,percentage,0.15,299,1.0,2020-07-01,2020-12-31
+16,1,Weekend 15% off,percentage,0.15,299,1.0,2021-01-01,2021-03-31
+17,1,Weekend 15% off,percentage,0.15,299,1.0,2021-07-01,2021-12-31
+18,1,Weekend 15% off,percentage,0.15,299,1.0,2022-01-01,2022-11-30
+19,2,Weekend 15% off,percentage,0.15,299,1.0,2022-01-01,2022-11-30
+20,1,Free beverage above 499,free_item,45,499,1.0,2018-03-01,2018-12-31
+21,2,Free beverage above 499,free_item,45,499,1.0,2018-03-01,2018-12-31
+22,1,Free beverage above 499,free_item,45,499,1.0,2019-01-01,2019-12-31
+23,4,Free beverage above 499,free_item,45,499,1.0,2019-01-01,2019-12-31
+24,1,Free beverage above 499,free_item,45,499,1.0,2020-01-01,2020-03-15
+25,3,Free beverage above 499,free_item,45,499,1.0,2020-01-01,2020-03-15
+26,2,Free beverage above 499,free_item,45,499,1.0,2020-07-01,2020-12-31
+27,2,Free beverage above 499,free_item,45,499,1.0,2021-01-01,2021-03-31
+28,2,Free beverage above 499,free_item,45,499,1.0,2022-01-01,2022-11-30
+29,1,Platform festive 40% off,percentage,0.4,199,0.0,2018-03-01,2018-12-31
+30,3,Platform festive 40% off,percentage,0.4,199,0.0,2018-03-01,2018-12-31
+31,4,Platform festive 40% off,percentage,0.4,199,0.0,2018-03-01,2018-12-31
+32,2,Platform festive 40% off,percentage,0.4,199,0.0,2020-01-01,2020-03-15
+33,3,Platform festive 40% off,percentage,0.4,199,0.0,2020-01-01,2020-03-15
+34,1,Platform festive 40% off,percentage,0.4,199,0.0,2020-07-01,2020-12-31
+35,1,Platform festive 40% off,percentage,0.4,199,0.0,2021-01-01,2021-03-31
+36,1,Platform festive 40% off,percentage,0.4,199,0.0,2021-07-01,2021-12-31
+37,2,Platform festive 40% off,percentage,0.4,199,0.0,2021-07-01,2021-12-31
+38,2,Platform 50% up to 100,percentage,0.5,149,0.0,2019-01-01,2019-12-31
+39,4,Platform 50% up to 100,percentage,0.5,149,0.0,2019-01-01,2019-12-31
+40,2,Platform 50% up to 100,percentage,0.5,149,0.0,2020-01-01,2020-03-15
+41,1,Platform 50% up to 100,percentage,0.5,149,0.0,2020-07-01,2020-12-31
+42,2,Platform 50% up to 100,percentage,0.5,149,0.0,2020-07-01,2020-12-31
+43,1,Platform 50% up to 100,percentage,0.5,149,0.0,2021-01-01,2021-03-31
+44,2,Platform 50% up to 100,percentage,0.5,149,0.0,2021-07-01,2021-12-31
+45,1,Platform 50% up to 100,percentage,0.5,149,0.0,2022-01-01,2022-11-30
+46,1,Super saver combo,combo,0.1,0,1.0,2018-03-01,2018-12-31
+47,1,Super saver combo,combo,0.1,0,1.0,2019-01-01,2019-12-31
+48,2,Super saver combo,combo,0.1,0,1.0,2019-01-01,2019-12-31
+49,4,Super saver combo,combo,0.1,0,1.0,2019-01-01,2019-12-31
+50,1,Super saver combo,combo,0.1,0,1.0,2020-01-01,2020-03-15
+51,2,Super saver combo,combo,0.1,0,1.0,2020-01-01,2020-03-15
+52,3,Super saver combo,combo,0.1,0,1.0,2020-01-01,2020-03-15
+53,2,Super saver combo,combo,0.1,0,1.0,2021-01-01,2021-03-31
+54,1,Super saver combo,combo,0.1,0,1.0,2022-01-01,2022-11-30
+55,2,Platform recovery 30% off,percentage,0.3,249,0.0,2018-03-01,2018-12-31
+56,3,Platform recovery 30% off,percentage,0.3,249,0.0,2018-03-01,2018-12-31
+57,1,Platform recovery 30% off,percentage,0.3,249,0.0,2019-01-01,2019-12-31
+58,2,Platform recovery 30% off,percentage,0.3,249,0.0,2019-01-01,2019-12-31
+59,3,Platform recovery 30% off,percentage,0.3,249,0.0,2019-01-01,2019-12-31
+60,4,Platform recovery 30% off,percentage,0.3,249,0.0,2019-01-01,2019-12-31
+61,2,Platform recovery 30% off,percentage,0.3,249,0.0,2020-01-01,2020-03-15
+62,1,Platform recovery 30% off,percentage,0.3,249,0.0,2021-01-01,2021-03-31
+63,2,Platform recovery 30% off,percentage,0.3,249,0.0,2021-01-01,2021-03-31
+64,1,Platform recovery 30% off,percentage,0.3,249,0.0,2021-07-01,2021-12-31
+65,1,Platform recovery 30% off,percentage,0.3,249,0.0,2022-01-01,2022-11-30
+66,2,Platform recovery 30% off,percentage,0.3,249,0.0,2022-01-01,2022-11-30

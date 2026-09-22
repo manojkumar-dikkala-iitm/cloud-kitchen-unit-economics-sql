@@ -1,0 +1,5 @@
+platform_id,platform_name,commission_rate,customer_delivery_rate,other_deduction_rate,active_from,active_to
+1,Swiggy,0.28,0.13,0.007,2018-02-01,
+2,Zomato,0.28,0.135,0.007,2018-02-01,
+3,UberEats,0.28,0.12,0.0065,2018-02-01,2020-01-31
+4,Foodpanda,0.28,0.125,0.006,2018-02-01,2019-09-30

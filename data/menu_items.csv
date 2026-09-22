@@ -1,0 +1,29 @@
+menu_item_id,item_name,category,veg_nonveg,base_food_cost_pct,launch_date,delist_date,is_combo
+1,Chicken Biryani - Boneless,Biryani,Non-veg,0.3408,2018-02-01,,0
+2,Chicken Biryani - Fry Piece,Biryani,Non-veg,0.3571,2018-02-01,,0
+3,Chicken Biryani - Dum,Biryani,Non-veg,0.3475,2018-02-01,,0
+4,Tamil Nadu Style Chicken Biryani,Biryani,Non-veg,0.3533,2018-04-01,,0
+5,Chilli Chicken,Starter,Non-veg,0.3168,2018-02-01,,0
+6,Chicken Lollipop,Starter,Non-veg,0.3302,2018-02-01,,0
+7,Dragon Chicken,Starter,Non-veg,0.3245,2018-05-01,,0
+8,Chicken Curry,Curry,Non-veg,0.3341,2018-02-01,,0
+9,Dum Chicken Curry,Curry,Non-veg,0.3379,2018-02-01,,0
+10,Fry Piece Chicken Curry,Curry,Non-veg,0.3418,2018-02-01,,0
+11,Boneless Chicken Curry,Curry,Non-veg,0.336,2018-02-01,,0
+12,Butter Chicken Masala,Curry,Non-veg,0.3763,2018-09-01,,0
+13,Veg Thali Meals,Meals,Veg,0.3053,2019-04-01,,0
+14,Paneer Fry,Starter,Veg,0.3456,2019-04-01,,0
+15,Paneer Masala,Curry,Veg,0.3494,2019-04-01,,0
+16,Gobi Manchurian,Starter,Veg,0.2573,2019-06-01,,0
+17,Channa Masala,Curry,Veg,0.2458,2019-06-01,,0
+18,Gulab Jamun (2 pc),Dessert,Veg,0.3264,2018-03-01,2018-08-31,0
+19,Rasmalai (2 pc),Dessert,Veg,0.3571,2018-03-01,2018-08-31,0
+20,Coke (600ml),Beverage,Veg,0.52,2018-02-01,,0
+21,Soda (600ml),Beverage,Veg,0.4,2018-02-01,,0
+22,Sprite (600ml),Beverage,Veg,0.52,2018-02-01,,0
+23,Pepsi (600ml),Beverage,Veg,0.52,2018-02-01,,0
+24,7UP (600ml),Beverage,Veg,0.52,2018-02-01,,0
+25,Fanta (600ml),Beverage,Veg,0.52,2018-02-01,,0
+26,Extra Rice,Add-on,Veg,0.288,2018-02-01,,0
+27,Raita,Add-on,Veg,0.3072,2018-02-01,,0
+28,Extra Gravy,Add-on,Veg,0.3264,2018-02-01,,0
