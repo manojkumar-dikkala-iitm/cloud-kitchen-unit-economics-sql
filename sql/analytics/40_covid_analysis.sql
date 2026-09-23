@@ -3,7 +3,6 @@
 --------------------------------------------------------------------------------
 MODULE D — COVID SHOCK AND COST BEHAVIOUR      
 Techniques: CTEs, window functions, running totals.
-YOUR THIRD DIFFERENTIATOR AND THE STRONGEST STORY IN THE PROJECT.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 */
