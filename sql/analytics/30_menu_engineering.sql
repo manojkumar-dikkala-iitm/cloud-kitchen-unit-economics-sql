@@ -3,7 +3,6 @@
 --------------------------------------------------------------------------------
 MODULE C - MENU ENGINEERING                 
 Techniques: CTEs, window functions, median workaround.
-YOUR SECOND DIFFERENTIATOR.
 --------------------------------------------------------------------------------
 --------------------------------------------------------------------------------
 */
@@ -92,8 +91,6 @@ ORDER BY menu_quadrant, units_sold DESC;
 /*
 --------------------------------------------------------------------------------
 C2b. MEDIAN WORKAROUND (PERCENTILE_CONT does not exist in MySQL 8).
-      Some analysts prefer median over mean for the profitability axis because
-      one very high-margin item drags the mean. Here is how to get it.
 --------------------------------------------------------------------------------        
 */
 
