@@ -47,7 +47,7 @@ Interview framing:
 
 > The original production database is gone, so I reconstructed a synthetic transactional dataset calibrated to my real operating figures. Generation and reconciliation were done in Python; all business analysis was done in SQL.
 
-### Never present synthetic transactions as historical records
+### Don't present synthetic transactions as historical records
 
 ```text
 Real / recalled
@@ -72,7 +72,7 @@ Tier 3 → constructed synthetic assumptions
 Tier 4 → SQL-derived analytical outputs
 ```
 
-### Never overclaim historical practice
+### Menu Engineering -Do not overclaim as historical practice
 
 Menu engineering was **not** performed at E-Table while the business was operating. The Kasavana-Smith framework is applied retrospectively to the reconstructed dataset.
 
